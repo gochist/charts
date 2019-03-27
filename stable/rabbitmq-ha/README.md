@@ -223,7 +223,7 @@ data:
     {
       "permissions": [],
       "users": [],
-      "policies: []
+      "policies": []
     }
 ```
 
